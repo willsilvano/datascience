@@ -1,2 +1,1 @@
-# datascience
-Repository to publish my tests with datascience
+Repositório com meus estudos e experimentos sobre Data Science e Machine Learning
